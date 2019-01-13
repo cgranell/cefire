@@ -14,23 +14,26 @@ A través de la presentación de *3 casos de uso*, se realizarán mapas (product
 
 # Estructura
 
-## [Presencial/4h] Caso de uso 1: demografía, movimientos migratorios 
-Objectivo:
+## [Presencial/4h] Caso de uso 1:  demografía, movimientos migratorios 
+Objectivo:  demografía, movimientos migratorios 
+
 Escala: EU, ES, CV 
+
 Fuentes de datos:
 * ....
+
 Tipos de visualización/mapas:
 * ...
 
-## [Presencial/4h] Caso de uso 2:  
+## [Presencial/4h] Caso de uso 2: medio ambiente, clima  
 Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y fotografías
+
 Escala: ES, CV 
 
 
+## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 
-## [Presencial/4h] Caso de uso 3: 
-
-Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia) y cartografía colaborativa.
+Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
 
 ## [Virtual/4h] Trabajo autónomo.
 
