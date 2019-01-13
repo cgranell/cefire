@@ -30,6 +30,10 @@ Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y
 
 Escala: ES, CV 
 
+Fuestes e datos /recursos:
+* [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
+* [Landsat Explorer](http://landsatexplorer.esri.com/)
+
 
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 
