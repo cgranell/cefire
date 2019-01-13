@@ -12,4 +12,29 @@ El curso es fundamentalmente práctico, y tiene como objectivo cubrir una demand
 
 A través de la presentación de *3 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa disintas perspectivas, vistas o historias de la temática de estudio, como forma de intepretar, cuestionar y formular nuevas preguntas sobre la temática de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo puede aplicarse en docencia. Se utilizarán una representación de diferentes softwares y herramientas SIG, incluyendo software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
+# Estructura
+
+## [Presencial/4h] Caso de uso 1: demografía, movimientos migratorios 
+Objectivo:
+Escala: EU, ES, CV 
+Fuentes de datos:
+* ....
+Tipos de visualización/mapas:
+* ...
+
+## [Presencial/4h] Caso de uso 2:  
+Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y fotografías
+Escala: ES, CV 
+
+
+
+## [Presencial/4h] Caso de uso 3: 
+
+Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia) y cartografía colaborativa.
+
+## [Virtual/4h] Trabajo autónomo.
+
+## [Presencial/4h] Presentación de trabajos finales y discusión
+
+
 
