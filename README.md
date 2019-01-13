@@ -20,7 +20,11 @@ Objectivo:  demografía, movimientos migratorios
 Escala: EU, ES, CV 
 
 Fuentes de datos:
-* ....
+* [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/)
+  * [GHS P2016](https://ghsl.jrc.ec.europa.eu/datasets.php#2016public) suite consists of multitemporal products, that offers an insight into the human presence in the past: 1975, 1990, 2000, and 2014. 
+  * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
+* [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
+
 
 Tipos de visualización/mapas:
 * ...
@@ -33,7 +37,7 @@ Escala: ES, CV
 Fuestes e datos /recursos:
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
-
+* [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
 
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 
