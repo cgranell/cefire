@@ -24,8 +24,10 @@ Fuentes de datos:
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
   * y más
-* [Renfe Data](http://data.renfe.com/): 
-* [EP DAta](https://www.epdata.es/): Agencia de datos por Europa Press
+* [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
+* [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
+* [Our Wrold in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
+* [EU Open  Data Portal](https://data.europa.eu/euodp/data/)
 * [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/)
   * [GHS P2016](https://ghsl.jrc.ec.europa.eu/datasets.php#2016public) suite consists of multitemporal products, that offers an insight into the human presence in the past: 1975, 1990, 2000, and 2014. 
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
