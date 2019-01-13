@@ -20,7 +20,10 @@ Objectivo:  demografía, movimientos migratorios
 Escala: EU, ES, CV 
 
 Fuentes de datos:
-* [Visor IDEV](https://visor.gva.es/visor/): Visor de Cartográfica de la Infraestructura Valenciaan de Datos Espaciales
+* IDEV - Infraestructura Valenciana de Datos Espaciales
+  * [Visor](https://visor.gva.es/visor/) 
+  * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
+  * y más
 * [Renfe Data](http://data.renfe.com/): 
 * [EP DAta](https://www.epdata.es/): Agencia de datos por Europa Press
 * [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/)
