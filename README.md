@@ -1,6 +1,8 @@
 # CEFIRE 
 
-Este repositorio centraliza recursos para el curso *Explicar a través de mapas (Sistemas de Información Geográfica)* como parte del [catálogo de cursos](http://cefire.edu.gva.es/sfp/index.php?usuario=formacion) pare 2018-2019 del [CEFIRE](http://cefire.edu.gva.es/), el centro de formación, innovación y recursos para el profesorado de la Comunidad Valenciana.
+Este repositorio centraliza recursos para el curso *Explicar a través de mapas (Sistemas de Información Geográfica)* como parte del [catálogo de cursos](http://cefire.edu.gva.es/sfp/index.php?usuario=formacion) 2018-2019 del [CEFIRE](http://cefire.edu.gva.es/), el centro de formación, innovación y recursos para el profesorado de la Comunidad Valenciana.
+
+Oficialemnte, el curso se denomina [Curso 19CA45IN005 - Explicar a través de mapas (Sistemas de Información Geográfica)](http://cefire.edu.gva.es/sfp/index.php?seccion=edicion&id=7810642), ofertado por CEFIRE de Castellón.
 
 # Objectivos
 * Introducir al alumno el concepto de datos abiertos y su acceso, es decir, donde encontrar datos para la creación de mapas. 
