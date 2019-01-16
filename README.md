@@ -44,6 +44,7 @@ Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y
 Escala: ES, CV 
 
 Fuestes e datos /recursos:
+* [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
 * [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
