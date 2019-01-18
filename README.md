@@ -48,6 +48,8 @@ Fuestes e datos /recursos:
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
 * [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
+* [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground)
+* [EO browser](https://apps.sentinel-hub.com/eo-browser/)
 
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 
