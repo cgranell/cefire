@@ -26,6 +26,7 @@ Fuentes de datos:
   * y más
 * [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
 * [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
+* [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
 * [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
