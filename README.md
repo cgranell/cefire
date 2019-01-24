@@ -24,6 +24,8 @@ Fuentes de datos:
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
   * y más
+* [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
+* [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
 * [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
