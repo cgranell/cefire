@@ -46,7 +46,7 @@ Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y
 
 Escala: ES, CV 
 
-Fuestes e datos /recursos:
+Fuentes de datos /recursos:
 * [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
@@ -57,6 +57,9 @@ Fuestes e datos /recursos:
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 
 Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
+
+Fuentes de datos /recursos:
+* [Atlas Digital Escolar](http://www.atlasdigitalescolar.es)
 
 ## [Virtual/4h] Trabajo autónomo.
 
