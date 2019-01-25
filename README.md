@@ -15,7 +15,7 @@ A través de la presentación de *3 casos de uso*, se realizarán mapas (product
 # Estructura
 
 ## [Presencial/4h] Caso de uso 1:  demografía, movimientos migratorios 
-Aula y fecha: HC2S22AI (19/02/2019 - 16:00 - 20:00)
+Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
 Objectivo:  demografía, movimientos migratorios 
 
@@ -44,7 +44,7 @@ Tipos de visualización/mapas:
 * ...
 
 ## [Presencial/4h] Caso de uso 2: medio ambiente, clima  
-Aula y fecha: HD0124AI (21/02/2019 - 16:00 - 20:00)
+Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
 Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y fotografías
 
@@ -59,7 +59,7 @@ Fuentes de datos /recursos:
 * [EO browser](https://apps.sentinel-hub.com/eo-browser/)
 
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
-Aula y fecha: HC2S22AI (26/02/2019 - 16:00 - 20:00)
+Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
 Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
 
@@ -69,7 +69,7 @@ Fuentes de datos /recursos:
 ## [Virtual/4h] Trabajo autónomo.
 
 ## [Presencial/4h] Presentación de trabajos finales y discusión
-Aula y fecha: HC2S22AI (06/03/2019 - 16:00 - 20:00)
+Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (06/03/2019 - 16:00 - 20:00)
 
 Objectivo: presentación y exposición de proyectos
 
