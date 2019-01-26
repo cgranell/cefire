@@ -65,6 +65,7 @@ Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (
 
 Fuentes de datos /recursos:
 * [Atlas Digital Escolar](http://www.atlasdigitalescolar.es)
+* [Dashboard to explore the GCSE Geography results for English schools in 2017/18](https://esriukeducation.maps.arcgis.com/apps/opsdashboard/index.html#/255e5030acb04a2c8b470a93aab2e2ea)
 
 ## [Virtual/4h] Trabajo autónomo.
 
