@@ -21,17 +21,20 @@ Objectivo:  demografía, movimientos migratorios
 
 Escala: Mundial, ES y CV 
 
-La descripcion y los datos para el caso práctico se pueden [consutla u bajar aquí](/caso1)
+La descripcion y los datos para el caso práctico se pueden [consultar y bajar aquí](/caso1)
 
-Fuentes de datos de ambito nacional, autonómico y local:
+Fuentes de datos de ámbito nacional, autonómico y local:
+* [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
+* [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
+* [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
 * IDEV - Infraestructura Valenciana de Datos Espaciales
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
   * y más
+
+Fuentes de datos de ámbito europeo, mundial:
+* [Natural Earth](https://www.naturalearthdata.com): Datos públicos a escalas 1:10m, 1:50m, y 1:110m 
 * [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
-* [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
-* [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
-* [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
 * [EU Open  Data Portal](https://data.europa.eu/euodp/data/)
