@@ -4,6 +4,12 @@ Interactuar desde el primer minuto con la herramienta QGIS para generar mapas, y
 
 ## Interfaz de usuario de QGIS
 
-## Ejemplo introductorio
+## Ejemplo introductorio. Escala mundial
 
 * Mapa mundial de países.
+
+## Break
+
+## Ejemplo a escala nacional y Comunidad Valenciana
+
+## Servicios y visores disponibles 
