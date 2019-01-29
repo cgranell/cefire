@@ -21,7 +21,7 @@ Concepto: Capa o *layer*
 * **El mapa (en papel)**: 
   * Crear un mapa (con leyenda, escala, titulo, anotaciones, etc) en formato PDF
 * **El proyecto**:  
-  * Salva en un fichero de protecto QGIS
+  * Salva en un fichero (QGIS) el mapa y los datos asociados. 
 
 ### [La historia]: Mapamundi político (coloreado) por continentes/países/etc.
 
@@ -33,6 +33,8 @@ Conceptos:
 
 Conceptos: 
 * ¿Colorear (*clasificar*) según su PIB por país? => Clasificar datos por atributo numérico
+* Mostrar solo los países del grupo de mayor PIB => *Clases* de la *capa* 
+* Duplicar *capas* => El orden de las *capas* importa. 
 
 ### [La historia]: Mapamundi político según la población por país.
 
