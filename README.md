@@ -10,18 +10,20 @@ Este repositorio centraliza recursos para el curso *Explicar a través de mapas 
 # Contenido 
 El curso es fundamentalmente práctico, y tiene como objectivo cubrir una demanda por parte del profesorado de Secundaria y Bachillerato para la adquisición de las habilidades y competencias necesarias para la realización de mapas, a través de los cualés introducir proyectos docentes en el aula. La creacion de mapas vista como medio/recurso docente y como un elemento vertebrador de análisis y discusión entre y con los alumnos. 
 
-A través de la presentación de *3 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa disintas perspectivas, vistas o historias de la temática de estudio, como forma de intepretar, cuestionar y formular nuevas preguntas sobre la temática de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo puede aplicarse en docencia. Se utilizarán una representación de diferentes softwares y herramientas SIG, incluyendo software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
+A través de la presentación de *3 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa disintas perspectivas, vistas y/o historias de la temática de estudio, como forma de intepretar, cuestionar y formular nuevas preguntas sobre la temática de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo puede aplicarse en docencia. Se utilizarán una representación de diferentes softwares y herramientas SIG, incluyendo software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
 # Estructura
 
-## [Presencial/4h] Caso de uso 1:  demografía, movimientos migratorios 
+## [Presencial/4h] Caso de uso 1:  Geografica y demografía (movimientos migratorios), escala moundial y España/CV
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
 Objectivo:  demografía, movimientos migratorios 
 
-Escala: EU, ES, CV 
+Escala: Mundial, ES y CV 
 
-Fuentes de datos:
+La descripcion y los datos para el caso práctico se pueden [consutla u bajar aquí](/caso1)
+
+Fuentes de datos de ambito nacional, autonómico y local:
 * IDEV - Infraestructura Valenciana de Datos Espaciales
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
