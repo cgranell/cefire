@@ -14,7 +14,7 @@ A través de la presentación de *3 casos de uso*, se realizarán mapas (product
 
 # Estructura
 
-## [Presencial/4h] Caso de uso 1:  Geografica y demografía (movimientos migratorios), escala moundial y España/CV
+## [Presencial/4h] Caso de uso 1:  Geografía y demografía (y/o movimientos migratorios), escala mundial y ES/CV
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
 Objectivo:  demografía, movimientos migratorios 
