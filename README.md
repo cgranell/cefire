@@ -25,17 +25,19 @@ La descripcion y los datos para el caso práctico se pueden [consultar y bajar a
 
 Fuentes de datos de ámbito nacional, autonómico y local:
 * [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
-* [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
-* [Renfe Data](http://data.renfe.com/): Lista estaciones renfe 
-* IDEV - Infraestructura Valenciana de Datos Espaciales
+  * [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
+* [Instituto NAcional de Estadística](https://www.ine.es/)
+* [Portal de Datos Abiertos de Esri España](http://opendata.esri.es/)
+* [Infraestructura Valenciana de Datos Espaciales (IDEV)](http://www.idev.gva.es/es)
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
-  * y más
+* [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
+* [Obervatori estaditica de Castelló](http://www.castello.es/frontal/transparencia/pages/observatori.php)
+
 
 Fuentes de datos de ámbito europeo, mundial:
 * [Natural Earth](https://www.naturalearthdata.com): Datos públicos a escalas 1:10m, 1:50m, y 1:110m 
 * [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
-* [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
 * [EU Open  Data Portal](https://data.europa.eu/euodp/data/)
 * [UN International migrant stock: The 2017 revision](http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml): Estimaciones de flujo de migración por edad, sexo y origen, para todos los países y áreas del mundo para 1990, 1995, 2000, 2005, 2010, 2015 y 2017.
