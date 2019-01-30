@@ -26,13 +26,13 @@ La descripcion y los datos para el caso práctico se pueden [consultar y bajar a
 Fuentes de datos de ámbito nacional, autonómico y local:
 * [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
   * [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
-* [Instituto NAcional de Estadística](https://www.ine.es/)
+* [Instituto Nacional de Estadística](https://www.ine.es/)
 * [Portal de Datos Abiertos de Esri España](http://opendata.esri.es/)
 * [Infraestructura Valenciana de Datos Espaciales (IDEV)](http://www.idev.gva.es/es)
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
-* [Obervatori estaditica de Castelló](http://www.castello.es/frontal/transparencia/pages/observatori.php)
+* [Observatorio estadistico de Castellón](http://www.castello.es/frontal/transparencia/pages/observatori.php)
 
 
 Fuentes de datos de ámbito europeo, mundial:
