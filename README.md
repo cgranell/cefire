@@ -14,28 +14,15 @@ A través de la presentación de *3 casos de uso*, se realizarán mapas (product
 
 # Estructura
 
-## [Presencial/4h] Caso de uso 1:  Geografía y demografía (y/o movimientos migratorios), escala mundial y ES/CV
+## [Presencial/4h] Caso de uso 1: Mapas de demografía, población, indicadores socio-económicos, etc. a escala mundial
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
-Objectivo:  demografía, movimientos migratorios 
+Objectivos: 
+* Mapas de demografía, población, indicadores socio-económicos, etc. a escala mundial.
 
-Escala: Mundial, ES y CV 
+La descripcion y los datos para el caso práctico 1 se pueden [consultar y bajar aquí](/caso1)
 
-La descripcion y los datos para el caso práctico se pueden [consultar y bajar aquí](/caso1)
-
-Fuentes de datos de ámbito nacional, autonómico y local:
-* [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
-  * [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
-* [Instituto Nacional de Estadística](https://www.ine.es/)
-* [Portal de Datos Abiertos de Esri España](http://opendata.esri.es/)
-* [Infraestructura Valenciana de Datos Espaciales (IDEV)](http://www.idev.gva.es/es)
-  * [Visor](https://visor.gva.es/visor/) 
-  * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
-* [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
-* [Observatorio estadistico de Castellón](http://www.castello.es/frontal/transparencia/pages/observatori.php)
-
-
-Fuentes de datos de ámbito europeo, mundial:
+Otras fuentes de datos de ámbito europeo y mundial:
 * [Natural Earth](https://www.naturalearthdata.com): Datos públicos a escalas 1:10m, 1:50m, y 1:110m 
 * [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
@@ -47,18 +34,30 @@ Fuentes de datos de ámbito europeo, mundial:
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
 
-
 Tipos de visualización/mapas:
 * ...
 
-## [Presencial/4h] Caso de uso 2: medio ambiente, clima  
+## [Presencial/4h] Caso de uso 2: Mapas de demografía, población, indicadores socio-económicos, etc. a  escala nacional y regional. Datos de medio ambiente y clima con imagines satélites  
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
-Objectivo: medio ambiente, clima, etc. mediante uso de imágenes de satélites y fotografías
+Objectivos: 
+* Mapas de demografía, población, indicadores socio-económicos, etc. a  escala nacional, regional y municipal.
+* Mapas de medio ambiente, clima, etc. mediante el uso de imágenes de satélites.
 
-Escala: ES, CV 
+La descripcion y los datos para el caso práctico 2 se pueden [consultar y bajar aquí](/caso2)
 
-Fuentes de datos /recursos:
+Otras fuentes de datos de ámbito nacional, autonómico y local:
+* [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
+  * [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
+* [Instituto Nacional de Estadística](https://www.ine.es/)
+* [Portal de Datos Abiertos de Esri España](http://opendata.esri.es/)
+* [Infraestructura Valenciana de Datos Espaciales (IDEV)](http://www.idev.gva.es/es)
+  * [Visor](https://visor.gva.es/visor/) 
+  * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
+* [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
+* [Observatorio estadistico de Castellón](http://www.castello.es/frontal/transparencia/pages/observatori.php)
+
+Fuentes de datos y recursos relacionados con imágenes satelites:
 * [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
@@ -66,12 +65,18 @@ Fuentes de datos /recursos:
 * [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground)
 * [EO browser](https://apps.sentinel-hub.com/eo-browser/)
 
+Tipos de visualización/mapas:
+* ...
+
+
 ## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
-Objectivo: Cartografía colaborativa y comunicación mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
+Objectivos: 
+* Cartografía colaborativa
+* Comunicación visial mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
 
-Fuentes de datos /recursos:
+Fuentes de datos/recursos:
 * [Atlas Digital Escolar](http://www.atlasdigitalescolar.es)
 * [Dashboard to explore the GCSE Geography results for English schools in 2017/18](https://esriukeducation.maps.arcgis.com/apps/opsdashboard/index.html#/255e5030acb04a2c8b470a93aab2e2ea)
 
@@ -80,5 +85,5 @@ Fuentes de datos /recursos:
 ## [Presencial/4h] Presentación de trabajos finales y discusión
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (06/03/2019 - 16:00 - 20:00)
 
-Objectivo: presentación y exposición de proyectos
+Objectivo: presentación y exposición de proyectos realizados por los asistentes
 
