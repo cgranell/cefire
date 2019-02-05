@@ -27,7 +27,7 @@ Concepto: Capa o *layer*
 
 Conceptos: 
 * ¿Por qué los datos *espaciales* son *especiales*? => Tabla de atributos. 
-* ¿Colorear (*categorizar*) por continente? => Categorizar datos por atributo alfanumérico (texto)
+* ¿Colorear (*categorizar*) por continente? => Categorizar datos por atributo alfanumérico/categóricos (texto)
 
 ### [La historia]: Mapamundi político según el PIB por país.
 
@@ -37,6 +37,11 @@ Conceptos:
 * Duplicar *capas* => El orden de las *capas* importa. 
 
 ### [La historia]: Mapamundi político según la población por país.
+
+### [La historia]: Mapamundi político según el PIB per cápita por país.
+
+Conceptos: 
+* ¿Cuales son los países ricos y cuales los pobres? Necesito el PIB per cápita => Crear nuevos atributos (expresiones) en base a otros ya existentes.  
 
 
 ### [La historia]: Mapamundi político de países en vías de desarrollo con población mayor de 10 millones.
