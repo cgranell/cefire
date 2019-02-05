@@ -38,6 +38,8 @@ Conceptos:
 
 ### [La historia]: Mapamundi político según la población por país.
 
+## DESCANSO
+
 ### [La historia]: Mapamundi político según el PIB per cápita por país.
 
 Conceptos: 
@@ -49,10 +51,5 @@ Conceptos:
 Conceptos: 
 * ¿Mostrar (*filtrar*) solo los países con cierta población? => Filtrar datos mediante expresiones que operan/combinan atributos
 * ¿Mostrar el nombre del país? => Etiquetas asociadas a atributos
-
-
-## Break
-
-## Ejemplo a escala nacional y Comunidad Valenciana
 
 ## Servicios y visores disponibles 
