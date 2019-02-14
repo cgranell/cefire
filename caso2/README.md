@@ -14,9 +14,8 @@
 
 ### [La historia]: ¿Qué municipios tienen mayor desempleo? ¿Existe relación entre la tasa de paro y la densidad de población?
 
-### [La historia]: ¿Cuanta población vive en la franja de la costa (a menos de 50km) y cuanta en el interior? ¿Cuánta poblaciaon habría que evacuar ante una eventual crecida de los oceanos?
-
-### [La historia]: ¿Cómo era antes la zona de un incendio? ¿Como se ve la misma zona en primavera/verano y en otoños/invierno?
-
 ## Break
+
+
+### [La historia]: ¿Cuanta población vive en la franja de la costa (a menos de 50km) y cuanta en el interior? ¿Cuánta poblaciaon habría que evacuar ante una eventual crecida de los oceanos?
 
