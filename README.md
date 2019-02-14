@@ -10,7 +10,7 @@ Este repositorio centraliza recursos para el curso *Explicar a través de mapas 
 # Contenido 
 El curso es fundamentalmente práctico, y tiene como objectivo cubrir una demanda por parte del profesorado de Secundaria y Bachillerato para la adquisición de las habilidades y competencias necesarias para la realización de mapas, a través de los cualés introducir proyectos docentes en el aula. La creacion de mapas vista como medio/recurso docente y como un elemento vertebrador de análisis y discusión entre y con los alumnos. 
 
-A través de la presentación de *3 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa disintas perspectivas, vistas y/o historias de la temática de estudio, como forma de intepretar, cuestionar y formular nuevas preguntas sobre la temática de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo puede aplicarse en docencia. Se utilizarán una representación de diferentes softwares y herramientas SIG, incluyendo software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
+A través de la presentación de *4 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa distintas perspectivas, vistas y/o historias de la temática de estudio, y formenta que se propongan nuevas preguntas sobre el tema de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo puede aplicarse en docencia. Se comentarán diversas herramientas SIG, haciendo hincapié en la herramienta de software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
 # Estructura
 
@@ -34,9 +34,6 @@ Otras fuentes de datos de ámbito europeo y mundial:
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
 
-Tipos de visualización/mapas:
-* ...
-
 ## [Presencial/4h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
@@ -56,16 +53,16 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Observatorio estadistico de Castellón](http://www.castello.es/frontal/transparencia/pages/observatori.php)
 
-Tipos de visualización/mapas:
-* ...
-
-## [Presencial/2h] Caso de uso 3: Datos de medio ambiente y clima con imágenes satélites
+## [Presencial/2h] Caso de uso 3: Mapas raster a partir de imágenes satélites
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
-Objectivos: 
-* Mapas de medio ambiente, clima, etc. mediante el uso de imágenes de satélites.
+La descripcion y los datos para el caso práctico 3 se pueden [consultar y bajar aquí](/caso3)
 
-Fuentes de datos y recursos relacionados con imágenes satelites:
+Objectivos: 
+* Carga y visualización de capas raster a partir de imágenes satélites. 
+* Mapas para identificar cambios en la vegatación, terrotorio, tipo de suelo, etc.
+
+Fuentes de datos y recursos relacionados con imágenes satélites:
 * [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
@@ -84,7 +81,7 @@ Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/201
 
 Objectivos: 
 * Cartografía colaborativa
-* Comunicación visial mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
+* Comunicación visual mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
 
 Fuentes de datos/recursos:
 * [Atlas Digital Escolar](http://www.atlasdigitalescolar.es)
@@ -95,5 +92,7 @@ Fuentes de datos/recursos:
 ## [Presencial/4h] Presentación de trabajos finales y discusión
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (06/03/2019 - 16:00 - 20:00)
 
-Objectivo: presentación y exposición de proyectos realizados por los asistentes
+Objectivo: 
+* Presentación y exposición de proyectos realizados por los asistentes. 
+* Discusión técnica y aplicación del mapa como herramienta docente.
 
