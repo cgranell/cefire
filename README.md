@@ -14,7 +14,7 @@ A través de la presentación de *3 casos de uso*, se realizarán mapas (product
 
 # Estructura
 
-## [Presencial/4h] Caso de uso 1: Mapas de demografía, población, indicadores socio-económicos, etc. a escala mundial
+## [Presencial/4h] Caso de uso 1: Mapas mundi de demografía, población, indicadores socio-económicos, etc.
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
 Objectivos: 
@@ -37,7 +37,7 @@ Otras fuentes de datos de ámbito europeo y mundial:
 Tipos de visualización/mapas:
 * ...
 
-## [Presencial/4h] Caso de uso 2: Mapas de demografía, población, indicadores socio-económicos, etc. a  escala nacional y regional. Datos de medio ambiente y clima con imagines satélites  
+## [Presencial/3h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
 Objectivos: 
@@ -57,6 +57,15 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
 * [EP Data](https://www.epdata.es/): Agencia de datos por Europa Press
 * [Observatorio estadistico de Castellón](http://www.castello.es/frontal/transparencia/pages/observatori.php)
 
+Tipos de visualización/mapas:
+* ...
+
+## [Presencial/2h] Caso de uso 3: Datos de medio ambiente y clima con imagines satélites
+Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
+
+Objectivos: 
+* Mapas de medio ambiente, clima, etc. mediante el uso de imágenes de satélites.
+
 Fuentes de datos y recursos relacionados con imágenes satelites:
 * [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
@@ -66,10 +75,12 @@ Fuentes de datos y recursos relacionados con imágenes satelites:
 * [EO browser](https://apps.sentinel-hub.com/eo-browser/)
 
 Tipos de visualización/mapas:
-* ...
+* [Stuff in space](http://stuffin.space/)
+* [earth](https://earth.nullschool.net/), a global map of wind, weather, and ocean conditions
+* [Windy](https://www.windy.com/), Wind maps & weather forecast
+* [Sentinel-hub EO-Browser](https://apps.sentinel-hub.com/eo-browser/)
 
-
-## [Presencial/4h] Caso de uso 3: Cartografía colaborativa y comunicación mediante “story maps”
+## [Presencial/2h] Caso de uso 4: Cartografía colaborativa y comunicación mediante “story maps”
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
 Objectivos: 
