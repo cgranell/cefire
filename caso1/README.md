@@ -52,4 +52,3 @@ Conceptos:
 * ¿Mostrar (*filtrar*) solo los países con cierta población? => Filtrar datos mediante expresiones que operan/combinan atributos
 * ¿Mostrar el nombre del país? => Etiquetas asociadas a atributos
 
-## Servicios y visores disponibles 
