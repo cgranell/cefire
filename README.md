@@ -37,12 +37,11 @@ Otras fuentes de datos de ámbito europeo y mundial:
 Tipos de visualización/mapas:
 * ...
 
-## [Presencial/3h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
+## [Presencial/4h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
 Objectivos: 
 * Mapas de demografía, población, indicadores socio-económicos, etc. a  escala nacional, regional y municipal.
-* Mapas de medio ambiente, clima, etc. mediante el uso de imágenes de satélites.
 
 La descripcion y los datos para el caso práctico 2 se pueden [consultar y bajar aquí](/caso2)
 
@@ -60,7 +59,7 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
 Tipos de visualización/mapas:
 * ...
 
-## [Presencial/2h] Caso de uso 3: Datos de medio ambiente y clima con imagines satélites
+## [Presencial/2h] Caso de uso 3: Datos de medio ambiente y clima con imágenes satélites
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
 Objectivos: 
