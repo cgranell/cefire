@@ -8,7 +8,7 @@
 * **El proyecto**: Por si acaso, ¿cómo guardo el mapa para futuros usos? 
 
 
-### [La historia]: ¿Qué partes/regiones de España concentran la mayor población? ¿Qué municipos son los mas poblados? ¿Cuáles los menos poblados? ¿Como se distribuye la desinsidad de población en España? ¿Cuáles Comunidades/municipios tienen mayor densidad? Cuales los que menos? ¿Que regiones y municipios forman la ["España Vacía"](https://elpais.com/cultura/2016/04/19/babelia/1461071676_157409.html)?
+### [La historia]: ¿Qué partes/regiones de España concentran la mayor población? ¿Qué municipos son los mas poblados? ¿Cuáles los menos poblados? ¿Cómo se distribuye la desinsidad de población en España? ¿Cuáles Comunidades/municipios tienen mayor densidad? ¿Cuáles los que menos? ¿Que regiones y municipios forman la ["España Vacía"](https://elpais.com/cultura/2016/04/19/babelia/1461071676_157409.html)?
 
 * **Los datos**: datos de población de España municipios, ligeramente modificado a los datos de [Paro por municipio. España](http://opendata.esri.es/datasets/paro-por-municipio.-espa%C3%B1a)
 
