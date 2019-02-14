@@ -14,7 +14,7 @@ Concepto: Capa o *layer*
 * **El proyecto**: Por si acaso, ¿cómo guardo el mapa para futuros usos? 
 
 ### [La historia]: Mapamundi político con color uniforme.
-* **Los datos**: [Límites administratimos de países, escala 1:50m (1cm = 500km)](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip) 
+* **Los datos**: [Breve descripción y acceso a los datos](Datos/README.md) 
 * **El mapa (en digital)**: 
   * Localizar los datos en QGIS
   * Visualizar una capa en QGIS
