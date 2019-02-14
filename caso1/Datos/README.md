@@ -20,17 +20,3 @@ A continuación se presenta una corta descripción de los atributos de interés 
 * **CONTINENT**: Nombre del continente en el que se encuentra el país.
 * **REGION_UN**: Nobre de la región en el que se encuentra el país de acuerdo a la clasificación de las Naciones Unidas.
 * **SUBREGION**: Nobre de la subregión en el que se encuentra el país de acuerdo a la clasificación de las Naciones Unidas.
-
-## Datos de población y desempleo por municipio en España 2017
-
-Este archivo (Poblacion_paro_municipio.zip) contiene las geometrías del tipo polígono con los límites administrativos de los municipios de España junto a una serie de de población y desempleo. El archivo es una versión simplificada de la compilación de datos abiertos ofrecida por [Esri España](http://opendata.esri.es) 
-
-A continuación se presenta una corta descripción de los atributos de interés para las prácticas en el curso.
-
-* **Cod_CCAA**: Código de identificación de la comunidad autónoma.
-* **cod_mpio**: Código de identificación del municipio.
-* **nom_mpio**: Nombre del municipio.
-* **Cod_Prov**: Código de la provincia en la que se ubica el municipio.
-* **Cod_CCAA**: Código de la comunidad autónoma en la que se ubica el municipio.
-* **total_paro**: Código de la provincia en la que se ubica el municipio.
-* **poblacion**: Código de la provincia en la que se ubica el municipio.
