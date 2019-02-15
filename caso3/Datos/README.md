@@ -4,19 +4,14 @@ Los datos a utilizar en el caso 3 se entregan en el formato de datos común en i
 
 Las imágenes usadas en este caso provienen del programa satelital de la agencia espacial Europea [Sentinel](https://sentinel.esa.int/web/sentinel/home) y son apenas una selección dentro de los productos de información satelital que ofrece esta misión.
 
-## Vista del municipio de Culla en la comunidad Valenciana del 27 de diciembre de 2017 (Antes del incendio)
+## Vista del municipio de Culla en la Comunidad Valenciana del 27 de diciembre de 2017 (Antes del incendio)
 
 La vista esta compuesta por tres archivos con diferentes mediciones características. El primer archivo ([antes_colorverdadero_20171227.tif](antes_colorverdadero_20171227.tif) es una composición en color verdadero, es decir, una composición de colores similares a las que detecta el ojo humano. El segundo archivo ([antes_rojo_20171227.tif](antes_rojo_20171227.tif) corresponde a una sección correspondiente al color rojo, es decir, la medición de energia en el color rojo detectada por el ojo humano. Finalmente, el tercer archivo ([antes_infrarojo_20171227.tif](antes_infrarojo_20171227.tif) corresponde a una sección correspodiente al infrarojo cercano, esta es la muestra de cómo los sensores remotos complementan la visión humana mediante mediciones de energia que no puede ser dectectada por el ojo humano.
 
-## Vista del municipio de Culla en la comunidad Valenciana del 15 de enero de 2018 (Despues del incendio)
+## Vista del municipio de Culla en la Comunidad Valenciana del 15 de enero de 2018 (Despues del incendio)
 
 La vista esta compuesta por tres archivos con diferentes mediciones características. El primer archivo ([antes_colorverdadero_20180116.tif](antes_colorverdadero_20180116.tif) es una composición en color verdadero, es decir, una composición de colores similares a las que detecta el ojo humano. El segundo archivo ([antes_rojo_20180116.tif](antes_rojo_20180116.tif) corresponde a una sección correspondiente al color rojo, es decir, la medición de energia en el color rojo detectada por el ojo humano. Finalmente, el tercer archivo ([antes_infrarojo_20180116.tif](antes_infrarojo_20180116.tif) corresponde a una sección correspodiente al infrarojo cercano, esta es la muestra de cómo los sensores remotos complementan la visión humana mediante mediciones de energia que no puede ser dectectada por el ojo humano.
 
 ## Índice de diferencia normalizada de vegetación (NDVI)
 
-El índice es un método que usa la aritmética entre mediciones de energia entre el color rojo y el infrarojo para identificar las características de la vegetación de acuerdo a su vigorosidad. 
-
-* [Fórmula de cálculo](https://es.wikipedia.org/wiki/%C3%8Dndice_de_vegetaci%C3%B3n_de_diferencia_normalizada): Se calcula como la división de i) la diferencia entre los valores del infrarojo cercano y el rojo, entre ii) la suma de los valores del infrarojo cercano y el rojo). NDVI = (IRC - R)/(IRC + R).
-* Interpretación: El índice produce valores entre -1 y 1.
-	* Valores cercanos a 1 indican una alta actividad clorofílica, es decir, vegetación vigorosa.
-	* Valores cercanos a 0 o negativos indican baja actividad clorofílica usualmente asociada a suelo desnudo, rocas, ciudades, cuerpos de agua o rios.
+El índice es un método que usa la aritmética entre mediciones de energia entre el color rojo y el infrarojo para identificar las características de la vegetación de acuerdo a su vigorosidad. El primer archivo ([antes_ndvi_20171227.tif](antes_ndvi_20171227.tif) es el resultado de estimar el índice vegetación de diferencia normalizada. Para mejorar la visibilidad e interpretación se debe usar la simbología en el  estilo ajustado para [NDVI](simbologia_ndvi.qml).
