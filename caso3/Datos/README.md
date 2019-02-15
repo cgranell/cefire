@@ -15,3 +15,7 @@ La vista esta compuesta por tres archivos con diferentes mediciones característ
 ## Índice de diferencia normalizada de vegetación (NDVI)
 
 El índice es un método que usa la aritmética entre mediciones de energia entre el color rojo y el infrarojo para identificar las características de la vegetación de acuerdo a su vigorosidad. El primer archivo ([antes_ndvi_20171227.tif](antes_ndvi_20171227.tif) es el resultado de estimar el índice vegetación de diferencia normalizada. Para mejorar la visibilidad e interpretación se debe usar la simbología en el  estilo ajustado para [NDVI](simbologia_ndvi.qml).
+
+## Simbología
+
+Las aplicaciones SIG permiten generar archivos de simbología para facilitar la visualización de datos. Los archios de simbología permiten por un lado ver la representación del índice de vegetación usando una combinación artificial de colores conocida normalmente como falso color, Archivo [simbologia_ndvi.qml](simbologia_ndvi.qml). Por otro lado permiten ver las diferencias entre índices de vegetación de forma más clara que con la escala de grises por defecto [simbologia_diferencia_ndvi.qml](simbologia_diferencia_ndvi.qml).
