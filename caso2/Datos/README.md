@@ -15,10 +15,9 @@ A continuación se presenta una breve descripción de los atributos de interés 
 * **Cod_CCAA**: Código de identificación de la comunidad autónoma.
 * **cod_mpio**: Código de identificación del municipio.
 * **nom_mpio**: Nombre del municipio.
-* **Cod_Prov**: Código de la provincia en la que se ubica el municipio.
-* **Cod_CCAA**: Código de la comunidad autónoma en la que se ubica el municipio.
-* **total_paro**: Código de la provincia en la que se ubica el municipio.
-* **poblacion**: Código de la provincia en la que se ubica el municipio.
+* **Cod_prov**: Código de la provincia en la que se ubica el municipio.
+* **total_paro**: Número de parados en el municipio (2017).
+* **poblacion**: Población total del municipio (2017).
 
 ## Límite de línea costera natural y artificial. Línea de pleamar y bajamar.
 
