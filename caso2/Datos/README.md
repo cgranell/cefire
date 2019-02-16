@@ -1,6 +1,10 @@
 # Datos Caso 2 
 
-Los datos a utilizar en el caso 2 se entregan en dos formatos de datos comunes en SIG. El formato *Shapefile* de ESRI que ha sido por muchos años el formato de intercambio de datos vectoriales en SIG: y el formato *GeoJSON* que es un alternativa que almacena los datos en formato de texto para facilitar su intercambio a través de la Web. Cualquiera de los dos formatos permiten realizar las actividades del curso y también pueden utilizarse en otras aplicaciones y herramientas SIG.
+Los datos a utilizar en el caso 2 se entregan en dos formatos de datos comunes en SIG. 
+* el formato *Shapefile* de ESRI que ha sido por muchos años el formato de intercambio de datos vectoriales en SIG, y 
+* el formato *GeoJSON* que es un alternativa que almacena los datos en formato de texto para facilitar su intercambio a través de la Web. 
+
+Cualquiera de los dos formatos permiten realizar las actividades del curso y también pueden utilizarse en otras aplicaciones y herramientas SIG.
 
 ## Datos de población y desempleo por municipio en España 2017
 
