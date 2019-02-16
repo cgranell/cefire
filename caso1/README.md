@@ -14,7 +14,7 @@ Concepto: Capa o *layer*
 * **El proyecto**: Por si acaso, ¿cómo guardo el mapa para futuros usos? 
 
 ### [La historia]: Mapamundi político con color uniforme.
-* **Los datos**: [Breve descripción y acceso a los datos](Datos/README.md) 
+* **Los datos**: [Límites administrativos de países](Datos/README.md) 
 * **El mapa (en digital)**: 
   * Localizar los datos en QGIS
   * Visualizar una capa en QGIS
