@@ -34,3 +34,5 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+caso3/Datos/despues_ndvi_20180116.tif
+caso3/Datos/diferencia_ndvi.tif
