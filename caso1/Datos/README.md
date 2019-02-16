@@ -8,9 +8,9 @@ Cualquiera de los dos formatos permiten adelantar las actividades del curso y su
 
 ## Límites Administrativos de países, escala 1:50m (1cm = 500km)
 
-El archivo [Limites_administrativos.zip](Limites_administrativos.zip) contiene las geometrías del tipo polígono con los límites administrativos de los países junto a una serie de atributos que los describen. El archivo es una versión simplificada de la fuente original [Límites administratimos de países, escala 1:50m (1cm = 500km)](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip) 
+El archivo [Limites_administrativos.zip](Limites_administrativos.zip) contiene las geometrías del tipo polígono de los límites administrativos de los países junto a una serie de atributos temáticos que los describen. El archivo es una versión simplificada de la fuente original [Límites administratimos de países, escala 1:50m (1cm = 500km)](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip) 
 
-A continuación se presenta una corta descripción de los atributos de interés para las prácticas en el curso.
+A continuación se presenta una breve descripción de los atributos de interés para el caso de uso.
 
 * **TYPE**: Tipo de territorio de acuerdo con su estado legal a nivel internacional (País, territorio dependiente, territorio en disputa o indeterminado).
 * **ABREV**: Nombre abreviado del estado que ejerce soberanía en el territorio.
