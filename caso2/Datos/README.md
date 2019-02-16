@@ -8,9 +8,9 @@ Cualquiera de los dos formatos permiten realizar las actividades del curso y tam
 
 ## Datos de población y desempleo por municipio en España 2017
 
-Este archivo [Poblacion_paro_municipio.zip](Poblacion_paro_municipio.zip) contiene las geometrías del tipo polígono con los límites administrativos de los municipios de España junto a una serie de de población y desempleo. El archivo es una versión simplificada de la compilación de datos abiertos ofrecida por [Esri España](http://opendata.esri.es) 
+Este archivo [Poblacion_paro_municipio.zip](Poblacion_paro_municipio.zip) contiene las geometrías del tipo polígono con los límites administrativos de los municipios de España junto a una serie de atributos sobre la población y desempleo. El archivo es una versión simplificada de la compilación de datos abiertos ofrecida por [Esri España](http://opendata.esri.es) 
 
-A continuación se presenta una corta descripción de los atributos de interés para las prácticas en el curso.
+A continuación se presenta una breve descripción de los atributos de interés para el caso de uso.
 
 * **Cod_CCAA**: Código de identificación de la comunidad autónoma.
 * **cod_mpio**: Código de identificación del municipio.
