@@ -1,6 +1,10 @@
 # Datos Caso 1 
 
-Los datos a utilizar en el caso 1 se entregan en dos formatos de datos comunes en SIG. Formato Shapefile de ESRI que ha sido por muchos años el formato de intercambio de datos vectoriales en SIG y Formato GeoJSON que es un alternativa que almacena los datos en formato de texto para facilitar su intercambio a través de la Web. Cualquiera de los dos formatos permiten adelantar las actividades del curso y su uso en otras aplicaciones SIG.
+Los datos a utilizar en el caso 1 se entregan en dos formatos de datos comunes en SIG:
+* el formato *shapefile* de ESRI que ha sido por muchos años el formato de intercambio de datos vectoriales en SIG y,
+* el formato *GeoJSON* que es un alternativa que almacena los datos en formato de texto para facilitar su intercambio a través de la Web. 
+
+Cualquiera de los dos formatos permiten adelantar las actividades del curso y su uso en otras aplicaciones SIG.
 
 ## Límites Administrativos de países, escala 1:50m (1cm = 500km)
 
