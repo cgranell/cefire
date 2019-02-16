@@ -25,10 +25,9 @@ Conceptos:
 
 ### [La historia]: ¿Cómo se distribuye la densidad de población en España? ¿Qué Comunidades/municipios tienen mayor densidad? ¿Cuáles las que menos? 
 
-### [La historia]: Población por género
-
 ## Break
 
+### [La historia]: ¿Cómo se distribuye la población por género, por ejemplo, en que municipios son mayoría las mujeres y en cuales los hombres?
 ### [La historia]: ¿Qué municipios tienen mayor desempleo? ¿Existe relación entre la tasa de paro y la densidad de población?
 
 ### [La historia]: ¿Cuanta población vive en la franja de la costa (a menos de 50km) y cuanta en el interior? ¿Cuánta población habría que evacuar ante una eventual crecida de los oceános? ¿Cuanta población debería ser más sensible al "mar de plástico"?
