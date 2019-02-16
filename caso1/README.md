@@ -1,6 +1,6 @@
 # Caso 1 
 
-Interactuar desde el primer minuto con la herramienta QGIS para crear mapas, y al mismo tiempo, incluir breves explicaciones teóricas sobre alguno de los conceptos que aparecen durante la realización de los casos prácticos, como la escala, leyenda, *features*, *layer*, etc.
+Interactuar desde el primer minuto con la herramienta QGIS para crear mapas, y al mismo tiempo, introducir breves explicaciones teóricas sobre los conceptos clave para la realización de los casos prácticos, como la escala, leyenda, *features*, *layer*, etc.
 
 ## Interfaz de usuario de QGIS
 Barra de menus, panel izquierda (fuentes de datos y capas), panel derecho (previsualización mapas)
@@ -44,7 +44,6 @@ Conceptos:
 
 Conceptos: 
 * ¿Cuales son los países ricos y cuales los pobres? Necesito el PIB per cápita => Crear nuevos atributos (expresiones) en base a otros ya existentes.  
-
 
 ### [La historia]: Mapamundi político de países en vías de desarrollo con población mayor de 10 millones.
 
