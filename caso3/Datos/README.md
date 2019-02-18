@@ -14,7 +14,7 @@ La vista esta compuesta por tres archivos con diferentes mediciones característ
 
 ## Índice de diferencia normalizada de vegetación (NDVI)
 
-El índice es un método que usa la aritmética entre mediciones de energia entre el color rojo y el infrarojo para identificar las características de la vegetación de acuerdo a su vigorosidad. El primer archivo ([antes_ndvi_20171227.tif](antes_ndvi_20171227.tif) es el resultado de estimar el índice vegetación de diferencia normalizada. Para mejorar la visibilidad e interpretación se debe usar la simbología en el  estilo ajustado para [NDVI](simbologia_ndvi.qml).
+El índice es un método que usa la aritmética entre mediciones de energia entre el color rojo y el infrarojo para identificar las características de la vegetación de acuerdo a su vigorosidad. El primer archivo ([antes_ndvi_20171227.tif](antes_ndvi_20171227.tif)) es el resultado de estimar el índice vegetación de diferencia normalizada. Para mejorar la visibilidad e interpretación se debe usar la simbología en el  estilo ajustado para [NDVI](simbologia_ndvi.qml).
 
 ## Simbología
 
@@ -29,4 +29,4 @@ A continuación se presenta una breve descripción de los atributos de interés 
 * **ANYO**: Año en el que ocurrió el incendio.
 * **H_DETEC**: Hora en que se detectó el incendio.
 * **F_DETEC**: Fecha en la que se detectó el incendio.
-* **SUPCAR_HA**: Área o superficie afectada por el incendio en hectáreas (1 ha = 10.000 metros cuadrados.
+* **SUPCAR_HA**: Área o superficie afectada por el incendio en hectáreas (1 ha = 10.000 metros cuadrados).

@@ -26,7 +26,7 @@ Conceptos:
 ### [La historia]: ¿Cómo se distribuye la densidad de población en España? ¿Qué Comunidades/municipios tienen mayor densidad? ¿Cuáles las que menos? 
 
 Conceptos:
-* ¿Cómo comparar el número de habitantes entre municipios grandes y pequeños? => La densidad de población usa una unidad de área que permita hacer la comparación, esta puede ser kilómetros cuadrados o Hectareas.
+* ¿Cómo comparar el número de habitantes entre municipios grandes y pequeños? => La densidad de población usa una unidad de área que permita hacer la comparación, esta puede ser kilómetros cuadrados o hectareas.
 	* Densidad por Kilómetro Cuadrado = (Población) / (Área en Kilómetros cuadrados)
 * ¿Cómo convertir los valores de área entre metros cuadrados y kilómetros cuadrados? => Para convertir las áreas calculadas por el SIG en metros cuadrados se debe dividir el valor en 1.000.000.
 	* 1 Kilómetro cuadrado = 1.000.000 metros cuadrados = 1.000 m x 1.000 m.

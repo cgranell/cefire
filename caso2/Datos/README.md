@@ -37,3 +37,14 @@ A continuación se presenta la descripción de los atributos de interés para la
 * **POB18**: Población total del municipio a corte del 01/01/2018.
 * **HOMBRES**: Población de hombres del municipio a corte del 01/01/2018.
 * **MUJERES**: Población mujeres del municipio a corte del 01/01/2018.
+
+Este archivo [municipios_poblacion_17_18.zip](municipios_poblacion_17_18.zip) contiene los límites administrativos de los municipios de España junto a los datos de población del 2017 y 2018.
+
+A continuación se presenta una breve descripción de los atributos de interés para el caso de uso.
+
+* **pob_17**: población del año 2017.
+* **pob_18**: población del año 2018.
+
+## Simbología
+
+Las aplicaciones SIG permiten generar archivos de simbología para facilitar la visualización de datos. Los archios de simbología permiten por un lado ver la representación de la proporción *hombres/mujeres*, Archivo [hombres_por_cada_mujer.qml](hombres_por_cada_mujer.qml). Por otro lado permiten ver los cambios en el número de habitantes o crecimiento poblacional [crecimiento_poblacion.qml](crecimiento_poblacion.qml).
