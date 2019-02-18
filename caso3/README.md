@@ -32,3 +32,10 @@
 	* Rojo: para valores negativos, son las zonas con descensos en el índice de vegetación y corresponden en su mayoría a áreas afectadas por el incendio forestal.
 	* Amarillos: para valores cercanos a cero, son las zonas sin mayores cambios en el índice.
 	* Verde: para valores positivos, son las zonas con aumentos en el índice de vegetación.
+
+
+### [La historia]: ¿Qué otras opciones de visualización existen para este tipo de fenómenos que se distribuyen en el territorio? ¿Cómo usar la información histórica para extraer patrones de distribución espacial de fenómenos? 
+* **Creación de mapas de calor**: La comparación de las ubicaciones relativas (objetos cercanos o agroupados) permite hacer estimaciones matemáticas de su concentración. Una herramienta indicativa de dicha concentración se conoce comunmente como *mapas de calor* (del ingés heatmap). *QGIS* ofrece una herramienta simplificada para generar este tipo de mapas en la sección de simbología, aplica únicamente a capas de tipo punto.
+	* Tonalidades intensas: para concentraciones altas, son las zonas en donde existe mayor presencia de objetos (puntos).
+	* Tonalidades claras: para concentraciones bajas, son las zonas en donde la presencia de objetos (puntos) es menor.
+	* Transparencia: Los mapas de calor se usan en combinación con capas de fondo para facilitar la interpretación.

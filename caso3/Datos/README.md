@@ -19,3 +19,7 @@ El índice es un método que usa la aritmética entre mediciones de energia entr
 ## Simbología
 
 Las aplicaciones SIG permiten generar archivos de simbología para facilitar la visualización de datos. Los archios de simbología permiten por un lado ver la representación del índice de vegetación usando una combinación artificial de colores conocida normalmente como falso color, Archivo [simbologia_ndvi.qml](simbologia_ndvi.qml). Por otro lado permiten ver las diferencias entre índices de vegetación de forma más clara que con la escala de grises por defecto [simbologia_diferencia_ndvi.qml](simbologia_diferencia_ndvi.qml).
+
+## Inventario de incendios forestales de la Comunidad Valenciana (1993-2015)
+
+El Archivo [Incendios_forestales_1993_2015.zip](Incendios_forestales_1993_2015.zip) contiene la información cartográfica de los incendios forestales reportados en la Cumunidad Valenciana entre los años 1993 y 2015. El archivo contiene capas con representaciones en puntos y polígonos.
