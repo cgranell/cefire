@@ -17,30 +17,30 @@ A través de la presentación de *4 casos de uso*, se realizarán mapas (product
 ## [Presencial/4h] Caso de uso 1: Mapas mundi de demografía, población, indicadores socio-económicos, etc.
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/2019 - 16:00 - 20:00)
 
-Objectivos: 
+Objetivos: 
 * Mapas de demografía, población, indicadores socio-económicos, etc. a escala mundial.
 
 La descripcion y los datos para el caso práctico 1 se pueden [consultar y bajar aquí](/caso1)
 
 Otras fuentes de datos de ámbito europeo y mundial:
 * [Natural Earth](https://www.naturalearthdata.com): Datos públicos a escalas 1:10m, 1:50m, y 1:110m 
-* [Open Data Inception](https://opendatainception.io/): Relación de más de 2700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
+* [Open Data Inception](https://opendatainception.io/): Relación de más de 2.700 portales de datos abiertos en todo el mundo en forma mapa interactivo y por [países](https://www.opendatasoft.es/la-lista-de-portales-datos-abiertos-en-el-mundo/).
 * [Our World in Data](https://ourworldindata.org/), [Africa in Data](https://africaindata.org)
 * [EU Open  Data Portal](https://data.europa.eu/euodp/data/)
 * [UN International migrant stock: The 2017 revision](http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml): Estimaciones de flujo de migración por edad, sexo y origen, para todos los países y áreas del mundo para 1990, 1995, 2000, 2005, 2010, 2015 y 2017.
 * [IIASA World Population Program](http://www.iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Introduction.html)
 * [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/)
-  * [GHS P2016](https://ghsl.jrc.ec.europa.eu/datasets.php#2016public) suite consists of multitemporal products, that offers an insight into the human presence in the past: 1975, 1990, 2000, and 2014. 
+  * [GHS P2016](https://ghsl.jrc.ec.europa.eu/datasets.php#2016public): Es una serie de productos multitemporales que ofrecen indicios de de la presencia humana en el pasado: 1975, 1990, 2000, y 2014. 
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
 
 ## [Presencial/4h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
-Objectivos: 
+Objetivos: 
 * Mapas de demografía, población, indicadores socio-económicos, etc. a  escala nacional, regional y municipal.
 
-La descripcion y los datos para el caso práctico 2 se pueden [consultar y bajar aquí](/caso2)
+La descripción y los datos para el caso práctico 2 se pueden [consultar y bajar aquí](/caso2)
 
 Otras fuentes de datos de ámbito nacional, autonómico y local:
 * [Iniciativa de datos abiertos del Gobierno de España](https://datos.gob.es/)
@@ -56,14 +56,14 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
 ## [Presencial/2h] Caso de uso 3: Mapas raster a partir de imágenes satélites
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
-La descripcion y los datos para el caso práctico 3 se pueden [consultar y bajar aquí](/caso3)
+La descripción y los datos para el caso práctico 3 se pueden [consultar y bajar aquí](/caso3)
 
-Objectivos: 
-* Carga y visualización de capas raster a partir de imágenes satélites. 
-* Mapas para identificar cambios en la vegatación, terrotorio, tipo de suelo, etc.
+Objetivos: 
+* Carga y visualización de capas raster a partir de imágenes satelitales. 
+* Mapas para identificar cambios en la vegetación, territorio, tipo de suelo, etc.
 
-Fuentes de datos y recursos relacionados con imágenes satélites:
-* [Servidores WMS libres para datos e imágenes satélite](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
+Fuentes de datos y recursos relacionados con imágenes satelitales:
+* [Servidores WMS libres para datos e imágenes satelitales](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
 * [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
@@ -73,13 +73,13 @@ Fuentes de datos y recursos relacionados con imágenes satélites:
 Tipos de visualización/mapas:
 * [Stuff in space](http://stuffin.space/)
 * [earth](https://earth.nullschool.net/), a global map of wind, weather, and ocean conditions
-* [Windy](https://www.windy.com/), Wind maps & weather forecast
+* [Windy](https://www.windy.com/), Mapas de viendo y pronóstico del estado del tiempo
 * [Sentinel-hub EO-Browser](https://apps.sentinel-hub.com/eo-browser/)
 
 ## [Presencial/2h] Caso de uso 4: Cartografía colaborativa y comunicación mediante “story maps”
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
-Objectivos: 
+Objetivos: 
 * Cartografía colaborativa
 * Comunicación visual mediante “story maps” (e.g. turismo, patrimonio histórico, nombre callejeros desde el punto de vista género, o información adicional con videos, fotos o enlaces a wikipedia).
 
