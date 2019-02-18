@@ -28,5 +28,5 @@ A continuación se presenta una breve descripción de los atributos de interés 
 
 * **ANYO**: Año en el que ocurrió el incendio.
 * **H_DETEC**: Hora en que se detectó el incendio.
-* **ANYO**: Fecha en la que se detectó el incendio.
+* **F_DETEC**: Fecha en la que se detectó el incendio.
 * **SUPCAR_HA**: Área o superficie afectada por el incendio en hectáreas (1 ha = 10.000 metros cuadrados.
