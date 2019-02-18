@@ -23,3 +23,10 @@ Las aplicaciones SIG permiten generar archivos de simbología para facilitar la 
 ## Inventario de incendios forestales de la Comunidad Valenciana (1993-2015)
 
 El Archivo [Incendios_forestales_1993_2015.zip](Incendios_forestales_1993_2015.zip) contiene la información cartográfica de los incendios forestales reportados en la Cumunidad Valenciana entre los años 1993 y 2015. El archivo contiene capas con representaciones en puntos y polígonos.
+
+A continuación se presenta una breve descripción de los atributos de interés para el caso de uso. Aplica para las dos capas
+
+* **ANYO**: Año en el que ocurrió el incendio.
+* **H_DETEC**: Hora en que se detectó el incendio.
+* **ANYO**: Fecha en la que se detectó el incendio.
+* **SUPCAR_HA**: Área o superficie afectada por el incendio en hectáreas (1 ha = 10.000 metros cuadrados.
