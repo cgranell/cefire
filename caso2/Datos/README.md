@@ -21,7 +21,7 @@ A continuación se presenta una breve descripción de los atributos de interés 
 
 ## Límite de línea costera natural y artificial. Línea de pleamar y bajamar.
 
-Este archivo [Linea_costera.zip](Linea_costera.zip) contiene las geometrías del tipo línea con los límites costeros de España clasificados de acuerdo a su origen y naturaleza. El archivo es una versión compilada e integrada de la cartografía báse del Instituto Geográfico Nacional disponibles en el [Centro Nacional de Información Geográfica](http://centrodedescargas.cnig.es/CentroDescargas)
+Este archivo [Linea_costera.zip](Linea_costera.zip) contiene las geometrías del tipo línea con los límites costeros de España clasificados de acuerdo a su origen y naturaleza. El archivo es una versión compilada e integrada de la cartografía báse del Instituto Geográfico Nacional disponibles en el [Centro Nacional de Información Geográfica](http://centrodedescargas.cnig.es/CentroDescargas). El archivo contiene además un recorte de la línea costera para la Comunidad Valenciana que facilita el el cálculo de las áreas de influencia.
 
 A continuación se presenta la descripción de los atributos de interés para las prácticas en el curso.
 
