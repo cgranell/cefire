@@ -8,9 +8,9 @@ Este repositorio centraliza recursos para el curso *Explicar a través de mapas 
 * Ofrecer al alumno habilidades prácticas para la generación de mapas y “story maps” a partir de conjuntos de datos diversos como parte de su docencia.
 
 # Contenido 
-El curso es fundamentalmente práctico, y tiene como objectivo cubrir una demanda por parte del profesorado de Secundaria y Bachillerato para la adquisición de las habilidades y competencias necesarias para la realización de mapas, a través de los cualés introducir proyectos docentes en el aula. La creacion de mapas vista como medio/recurso docente y como un elemento vertebrador de análisis y discusión entre y con los alumnos. 
+El curso es fundamentalmente práctico, y tiene como objetivo cubrir una demanda por parte del profesorado de Secundaria y Bachillerato para la adquisición de las habilidades y competencias necesarias para la realización de mapas, a través de los cualés introducir proyectos docentes en el aula. La creación de mapas vista como medio/recurso docente y como un elemento vertebrador de análisis y discusión entre y con los alumnos. 
 
-A través de la presentación de *4 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). Sin datos no hay historia, y sin historia no hay mapa. Cada mapa representa distintas perspectivas, vistas y/o historias de la temática de estudio. A su vez, los mapas fomentan que surgan y se planteen nuevas preguntas sobre el tema de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo los mapas pueden aplicarse en docencia. Se comentarán diversas herramientas SIG, haciendo hincapié en la herramienta de software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
+A través de la presentación de *4 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). **Sin datos no hay historia, y sin historia no hay mapa**. Cada mapa representa distintas perspectivas, vistas y/o historias de la temática de estudio. A su vez, los mapas fomentan que surgan y se planteen nuevas preguntas sobre el tema de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo los mapas pueden aplicarse en docencia. Se comentarán diversas herramientas SIG, haciendo hincapié en la herramienta de software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
 # Estructura
 
@@ -20,7 +20,7 @@ Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (19/02/201
 Objetivos: 
 * Mapas de demografía, población, indicadores socio-económicos, etc. a escala mundial.
 
-La descripcion y los datos para el caso práctico 1 se pueden [consultar y bajar aquí](/caso1)
+La descripción y los datos para el caso práctico 1 se pueden [consultar y bajar aquí](/caso1)
 
 Otras fuentes de datos de ámbito europeo y mundial:
 * [Natural Earth](https://www.naturalearthdata.com): Datos públicos a escalas 1:10m, 1:50m, y 1:110m 
@@ -34,7 +34,7 @@ Otras fuentes de datos de ámbito europeo y mundial:
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
 
-## [Presencial/4h] Caso de uso 2: Mapas nacional y regional de demografía, población, indicadores socio-económicos, etc. 
+## [Presencial/4h] Caso de uso 2: Mapas nacionales/regionales de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
 
 Objetivos: 
@@ -56,11 +56,11 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
 ## [Presencial/2h] Caso de uso 3: Mapas raster a partir de imágenes satélites
 Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (26/02/2019 - 16:00 - 20:00)
 
-La descripción y los datos para el caso práctico 3 se pueden [consultar y bajar aquí](/caso3)
-
 Objetivos: 
-* Carga y visualización de capas raster a partir de imágenes satelitales. 
+* Carga y visualización de capas raster a partir de imágenes satelitales o de satélites. 
 * Mapas para identificar cambios en la vegetación, territorio, tipo de suelo, etc.
+
+La descripción y los datos para el caso práctico 3 se pueden [consultar y bajar aquí](/caso3)
 
 Fuentes de datos y recursos relacionados con imágenes satelitales:
 * [Servidores WMS libres para datos e imágenes satelitales](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
@@ -88,6 +88,9 @@ Fuentes de datos/recursos:
 * [Dashboard to explore the GCSE Geography results for English schools in 2017/18](https://esriukeducation.maps.arcgis.com/apps/opsdashboard/index.html#/255e5030acb04a2c8b470a93aab2e2ea)
 * [Story map :: Prado-Retiro](https://prado-retiro.madrid.es/site/es/index.html), candidatura a Patrimonio Mundial de la UNESCO
 * [Story map :: European Year of Culture Heritage 2018](http://eu-commission.maps.arcgis.com/apps/MapJournal/index.html?appid=e3e538d4e4b743c8a6bc7a363fbc2310)
+* [Mis Calles - Gijón](https://miscalles.elcomercio.es/)
+* [Europeana Collections](https://www.europeana.eu/portal/es), [Maps and Geography](https://www.europeana.eu/portal/en/collections/maps)
+* [Europeana Exhibitions Pioneers](https://www.europeana.eu/portal/es/exhibitions/pioneers)
 
 ## [Virtual/4h] Trabajo autónomo.
 
