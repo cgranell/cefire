@@ -12,6 +12,13 @@ El curso es fundamentalmente práctico, y tiene como objetivo cubrir una demanda
 
 A través de la presentación de *4 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). **Sin datos no hay historia, y sin historia no hay mapa**. Cada mapa representa distintas perspectivas, vistas y/o historias de la temática de estudio. A su vez, los mapas fomentan que surgan y se planteen nuevas preguntas sobre el tema de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo los mapas pueden aplicarse en docencia. Se comentarán diversas herramientas SIG, haciendo hincapié en la herramienta de software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
+
+[Montañas para ilustrar la población urbana mundial en 3D](https://elpais.com/elpais/2019/01/26/seres_urbanos/1548536663_279333.html). El País, 28 Ene 2019
+[La desigualdad va por código postal: el mapa de 33 ciudades, barrio a barrio](https://elpais.com/economia/2019/01/17/actualidad/1547754530_447122.html). El País, 20 Ene 2019.
+[Un mapamundi nocturno ‘online’ para combatir la contaminación lumínica](https://elpais.com/tecnologia/2018/05/25/actualidad/1527257125_692310.html). El País, 28 May 2018.
+[¿Qué países han aumentado o disminuido más sus emisiones de CO2 desde 1990?](https://elpais.com/economia/2017/12/20/actualidad/1513784617_084703.html). El País, 21 Dic 2017.
+[El mayor mapa del cáncer en España demuestra la desigualdad por regiones](https://elpais.com/elpais/2014/09/30/ciencia/1412091987_955227.html), El País, 1 Oct 2014.
+
 # Estructura
 
 ## [Presencial/4h] Caso de uso 1: Mapas mundi de demografía, población, indicadores socio-económicos, etc.
