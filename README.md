@@ -40,6 +40,7 @@ Otras fuentes de datos de ámbito europeo y mundial:
   * [GHS P2016](https://ghsl.jrc.ec.europa.eu/datasets.php#2016public): Es una serie de productos multitemporales que ofrecen indicios de de la presencia humana en el pasado: 1975, 1990, 2000, y 2014. 
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
+* [ColorBrewer: Color Advice for Maps](http://colorbrewer2.org/)
 
 ## [Presencial/4h] Caso de uso 2: Mapas nacionales/regionales de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
