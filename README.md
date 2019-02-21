@@ -41,6 +41,8 @@ Otras fuentes de datos de ámbito europeo y mundial:
   * [European Settlement Maps - release 2016](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/EU%20GHSL%202014)
 * [JRC Earth Observation Data and Processing Platform (JEODPP)](https://cidportal.jrc.ec.europa.eu/home/)
 * [ColorBrewer: Color Advice for Maps](http://colorbrewer2.org/)
+* [JRC European Drought Observatory](http://edo.jrc.ec.europa.eu/edov2)
+* [JRC Global Drought Observatory](http://edo.jrc.ec.europa.eu/gdo)
 
 ## [Presencial/4h] Caso de uso 2: Mapas nacionales/regionales de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
