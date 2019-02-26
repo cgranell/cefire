@@ -111,3 +111,5 @@ Objectivo:
 * Presentación y exposición de proyectos realizados por los asistentes. 
 * Discusión técnica y aplicación del mapa como herramienta docente.
 
+Confirmada visita de Pedro Rico (ESRI España) a las 16:30 para una breve introducción de los [StoryMaps](https://storymaps.arcgis.com/es/) como herramienta docente.
+
