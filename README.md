@@ -79,6 +79,9 @@ Fuentes de datos y recursos relacionados con imágenes satelitales:
 * [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
 * [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground)
 * [EO browser](https://apps.sentinel-hub.com/eo-browser/)
+* [Mapas base de Españas](http://www.ign.es/web/cbg-area-cartografia) para añadir como Servicios OWS o WMS/WCS en QGIS.
+* [Capas tematicas de España](https://www.idee.es/directorio-de-servicios) para añadir como Servicios OWS o WMS/WCS en QGIS.
+* [Mapas OpenStreetMap](https://wiki.openstreetmap.org/wiki/Tile_servers) para añadir como servicios XYZ en QGIS.
 
 Tipos de visualización/mapas:
 * [Stuff in space](http://stuffin.space/)
