@@ -110,7 +110,7 @@ Fuentes de datos/recursos:
 ## [Virtual/4h] Trabajo autónomo.
 
 ## [Presencial/4h] Presentación de trabajos finales y discusión
-Aula y fecha: [HC2S22AI](http://smart.uji.es/index.php?room=HC2S22AI) (06/03/2019 - 16:00 - 20:00)
+Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (07/03/2019 - 16:00 - 20:00)
 
 Objectivo: 
 * Presentación y exposición de proyectos realizados por los asistentes. 
