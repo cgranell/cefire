@@ -84,6 +84,7 @@ Fuentes de datos y recursos relacionados con imágenes satelitales:
 * [Mapas base de España](http://www.ign.es/web/cbg-area-cartografia) para añadir como Servicios OWS o WMS/WCS en QGIS.
 * [Capas tematicas de España](https://www.idee.es/directorio-de-servicios) para añadir como Servicios OWS o WMS/WCS en QGIS.
 * [Mapas OpenStreetMap](https://wiki.openstreetmap.org/wiki/Tile_servers) para añadir como servicios XYZ en QGIS.
+* [Story map :: Deep Learning with Imagery in ArcGIS](http://maps.arcgis.com/apps/MapSeries/index.html?appid=9766dba97c954fcaa175da83b72ccf06)
 
 Tipos de visualización/mapas:
 * [Stuff in space](http://stuffin.space/)
