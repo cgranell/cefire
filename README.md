@@ -106,6 +106,7 @@ Fuentes de datos/recursos:
 * [ESRI España colegio](https://colegios.esri.es/)
 * [Story map :: Prado-Retiro](https://prado-retiro.madrid.es/site/es/index.html), candidatura a Patrimonio Mundial de la UNESCO
 * [Story map :: European Year of Culture Heritage 2018](http://eu-commission.maps.arcgis.com/apps/MapJournal/index.html?appid=e3e538d4e4b743c8a6bc7a363fbc2310)
+* [Story map :: Reinventing cities Madrid](https://reinventingcitiesmadrid.esri.es/), ciudades globales hacia un futuro sostenible
 * [MapX](https://www.mapx.org/), ejemplos de story maps de Naciones Unidas
 * [Mis Calles - Gijón](https://miscalles.elcomercio.es/)
 * [Europeana Collections](https://www.europeana.eu/portal/es), [Maps and Geography](https://www.europeana.eu/portal/en/collections/maps)
