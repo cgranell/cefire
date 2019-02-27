@@ -76,6 +76,7 @@ Fuentes de datos y recursos relacionados con imágenes satelitales:
 * [Servidores WMS libres para datos e imágenes satelitales](http://www.gisandbeers.com/servidores-wms-libres-datos-e-imagenes-satelite/)
 * [Espacio alborán](http://www.iucn-geoportalboran.org/es/)
 * [Landsat Explorer](http://landsatexplorer.esri.com/)
+* [Sentinel Explorer](http://sentinel2explorer.esri.com/)
 * [Wayback](https://livingatlas.arcgis.com/wayback/): Podéis elegir un lugar de interés y luego ver imágenes de varios años atrás.
 * [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground)
 * [EO browser](https://apps.sentinel-hub.com/eo-browser/)
