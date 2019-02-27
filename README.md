@@ -15,6 +15,7 @@ A través de la presentación de *4 casos de uso*, se realizarán mapas (product
 * [Tres Cantos, el paraíso de los jubilados](https://elpais.com/ccaa/2019/02/20/madrid/1550680421_903084.html). El País, 21 Feb 2019.
 * [Montañas para ilustrar la población urbana mundial en 3D](https://elpais.com/elpais/2019/01/26/seres_urbanos/1548536663_279333.html). El País, 28 Ene 2019.
 * [La desigualdad va por código postal: el mapa de 33 ciudades, barrio a barrio](https://elpais.com/economia/2019/01/17/actualidad/1547754530_447122.html). El País, 20 Ene 2019.
+* [El láser desvela toda la grandeza de la civilización maya](https://elpais.com/elpais/2018/09/27/ciencia/1538033539_490188.html). El País, 28 Sep 2018
 * [Un mapamundi nocturno ‘online’ para combatir la contaminación lumínica](https://elpais.com/tecnologia/2018/05/25/actualidad/1527257125_692310.html). El País, 28 May 2018.
 * [¿Qué países han aumentado o disminuido más sus emisiones de CO2 desde 1990?](https://elpais.com/economia/2017/12/20/actualidad/1513784617_084703.html). El País, 21 Dic 2017.
 * [El mayor mapa del cáncer en España demuestra la desigualdad por regiones](https://elpais.com/elpais/2014/09/30/ciencia/1412091987_955227.html), El País, 1 Oct 2014.
