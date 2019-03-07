@@ -104,6 +104,7 @@ Fuentes de datos/recursos:
 * [Dashboard to explore the GCSE Geography results for English schools in 2017/18](https://esriukeducation.maps.arcgis.com/apps/opsdashboard/index.html#/255e5030acb04a2c8b470a93aab2e2ea)
 * [ESRI España StoryMaps](https://storymaps.arcgis.com/es/)
 * [ESRI España colegio](https://colegios.esri.es/)
+* [ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/)
 * [Story map :: Prado-Retiro](https://prado-retiro.madrid.es/site/es/index.html), candidatura a Patrimonio Mundial de la UNESCO
 * [Story map :: European Year of Culture Heritage 2018](http://eu-commission.maps.arcgis.com/apps/MapJournal/index.html?appid=e3e538d4e4b743c8a6bc7a363fbc2310)
 * [Story map :: Reinventing cities Madrid](https://reinventingcitiesmadrid.esri.es/), ciudades globales hacia un futuro sostenible
