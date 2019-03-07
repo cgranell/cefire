@@ -139,6 +139,7 @@ Ejemplos reales de cartografía colaborativa realizada en colegios e institutos.
 * ¿Puede que el problema no sea tanto la creación de mapas (muchos recursos disponibles...) sino como articularlos de forma adecuada en el aula como recurso docente.
 
 * ¿Mapas estáticos vs mapas dinámicos?
+  * [Map of Languages and Dialect Groups in Spain](https://www.reddit.com/r/MapPorn/comments/8c3smn/map_of_languages_and_dialect_groups_in_spain_1028/?st=JFZZZTPS&sh=37d53f14)
 
 
 
