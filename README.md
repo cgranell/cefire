@@ -117,9 +117,26 @@ Fuentes de datos/recursos:
 ## [Presencial/4h] Presentación de trabajos finales y discusión
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (07/03/2019 - 16:00 - 20:00)
 
-Objectivo: 
+Objectivos: 
 * Presentación y exposición de proyectos realizados por los asistentes. 
 * Discusión técnica y aplicación del mapa como herramienta docente.
 
-Confirmada visita de Pedro Rico (ESRI España) a las 16:30 para una breve introducción de los [StoryMaps](https://storymaps.arcgis.com/es/) como herramienta docente.
+Confirmada visita de Pedro Rico (ESRI España) a las 16:00 para una breve introducción de los [StoryMaps](https://storymaps.arcgis.com/es/) como herramienta docente.
+
+
+Ejemplos reales de cartografía colaborativa realizada en colegios e institutos. A partir de estos ejemplos, iniciar discusión en como se pueden adoptar al contexto de los participantes del curso.
+
+* Open Street Map:
+  * Una actividad interesante es el mapeo de áreas concretas con **Open Street Map**. Hay documentos que explican paso a paso como *mapear* ([Guía de principiantes](https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_de_principiantes), [Primeros pasos en OpenStreetMap.org](https://learnosm.org/es/beginner/start-osm/). Por ejemplo, se puede empezar por mapear espacios pequeños como patios de los institutos. ¿Cómo están de mapeados vuestros institutos?
+  * Relacionado con la anterior, el siguien paso [el mapeo de areás urbanas o ciudades]( https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_para_mapear_en_Colombia). No se trata únicamente de mapear objetos urbanos (farolas, papeleras, etc.), sino que se pueden ghacer camapñas temáticas, como de recogida, categorización (serán atributos asociados a la geometría - puntos) y localización de residuos (e.g. plásticos en playas), acompañados de una reflexión luego en el aula.
+* Story Maps
+  * Como proyecto docente para que los alumnos lo diseñen de forma colaborativa
+  * Come recurso docente para que el profesorado lo use en el aula
+  
+* ¿Puede que el problema no sea tanto la creación de mapas (muchos recursos disponibles...) sino como articularlo de forma adecuada en el aula como recurso docente.
+* ¿Mapas estáticos vs mapas dinámicos?
+
+
+
+
 
