@@ -127,13 +127,15 @@ Confirmada visita de Pedro Rico (ESRI España) a las 16:00 para una breve introd
 Ejemplos reales de cartografía colaborativa realizada en colegios e institutos. A partir de estos ejemplos, iniciar discusión en como se pueden adoptar al contexto de los participantes del curso.
 
 * Open Street Map:
-  * Una actividad interesante es el mapeo de áreas concretas con **Open Street Map**. Hay documentos que explican paso a paso como *mapear* ([Guía de principiantes](https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_de_principiantes), [Primeros pasos en OpenStreetMap.org](https://learnosm.org/es/beginner/start-osm/). Por ejemplo, se puede empezar por mapear espacios pequeños como patios de los institutos. ¿Cómo están de mapeados vuestros institutos?
-  * Relacionado con la anterior, el siguien paso [el mapeo de areás urbanas o ciudades]( https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_para_mapear_en_Colombia). No se trata únicamente de mapear objetos urbanos (farolas, papeleras, etc.), sino que se pueden ghacer camapñas temáticas, como de recogida, categorización (serán atributos asociados a la geometría - puntos) y localización de residuos (e.g. plásticos en playas), acompañados de una reflexión luego en el aula.
+  * Una actividad interesante es el mapeo de áreas concretas con **Open Street Map**. Hay documentos que explican paso a paso como *mapear* ([Guía de principiantes](https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_de_principiantes), [Primeros pasos en OpenStreetMap.org](https://learnosm.org/es/beginner/start-osm/). Por ejemplo, se puede empezar por mapear espacios pequeños como los patios de los institutos. ¿Cómo están de mapeados vuestros institutos?
+  * Relacionado con la anterior, el siguiente paso es [el mapeo de áreas urbanas o ciudades]( https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_para_mapear_en_Colombia). No se trata únicamente de mapear objetos urbanos (farolas, papeleras, etc.), sino que se pueden hacer campañas temáticas, como la recogida, categorización (serán atributos asociados a la geometría - puntos) y localización de residuos (e.g. plásticos en playas), acompañados de una reflexión luego en el aula.
+
 * Story Maps
   * Como proyecto docente para que los alumnos lo diseñen de forma colaborativa
   * Come recurso docente para que el profesorado lo use en el aula
   
-* ¿Puede que el problema no sea tanto la creación de mapas (muchos recursos disponibles...) sino como articularlo de forma adecuada en el aula como recurso docente.
+* ¿Puede que el problema no sea tanto la creación de mapas (muchos recursos disponibles...) sino como articularlos de forma adecuada en el aula como recurso docente.
+
 * ¿Mapas estáticos vs mapas dinámicos?
 
 
