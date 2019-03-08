@@ -102,7 +102,6 @@ Objetivos:
 Fuentes de datos/recursos:
 * [Educa IGN](http://www.ign.es/web/ign/portal/recursos-educativos): la web de Recursos Educativos del Instituto Geográfico Nacional (IGN).
   * [Canal YouTube IGN](https://www.youtube.com/user/IGNSpain)
-http://www.ign.es/web/ign/portal/recu...
 * [Atlas Digital Escolar](http://www.atlasdigitalescolar.es)
 * [Dashboard to explore the GCSE Geography results for English schools in 2017/18](https://esriukeducation.maps.arcgis.com/apps/opsdashboard/index.html#/255e5030acb04a2c8b470a93aab2e2ea)
 * [ESRI España StoryMaps](https://storymaps.arcgis.com/es/)
