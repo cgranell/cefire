@@ -47,6 +47,7 @@ Otras fuentes de datos de ámbito europeo y mundial:
 * [JRC Global Drought Observatory](http://edo.jrc.ec.europa.eu/gdo)
 * [Artic-SDI](https://arctic-sdi.org/): Artic Spatial Data Infrastructure
   * [Artic Geoportal](https://geoportal.arctic-sdi.org/)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## [Presencial/4h] Caso de uso 2: Mapas nacionales/regionales de demografía, población, indicadores socio-económicos, etc. 
 Aula y fecha: [HD0124AI](http://smart.uji.es/index.php?room=HD0124AI) (21/02/2019 - 16:00 - 20:00)
