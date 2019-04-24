@@ -62,6 +62,7 @@ Otras fuentes de datos de ámbito nacional, autonómico y local:
   * [Datos abiertos FEMP 2019. 40 conjuntos de datos a publicar por las Entidades Locales](https://blog-idee.blogspot.com/2019/01/datos-abiertos-femp-2019-40-conjuntos.html)
 * [Instituto Nacional de Estadística](https://www.ine.es/)
 * [Portal de Datos Abiertos de Esri España](http://opendata.esri.es/)
+* [Cartografía urbana contemporánea (1800 - 1950)](http://ciudadyferrocarril.com/cartografia_urbana/), mapas y cartografía urbana de 131 ciudades españolas.
 * [Infraestructura Valenciana de Datos Espaciales (IDEV)](http://www.idev.gva.es/es)
   * [Visor](https://visor.gva.es/visor/) 
   * [Comparador](https://visor.gva.es/visor/index.html?idioma=va&TipVisor=comparador&extension=364776.166774971,4180058.493669871,1066926.8010032796,4547321.373139449)
