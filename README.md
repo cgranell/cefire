@@ -12,6 +12,8 @@ El curso es fundamentalmente práctico, y tiene como objetivo cubrir una demanda
 
 A través de la presentación de *4 casos de uso*, se realizarán mapas (productos) a partir de conjuntos de datos de diversa índole, temática, escala y formato (materia prima) mediante el uso de una aplicación de SIG (herramienta). **Sin datos no hay historia, y sin historia no hay mapa**. Cada mapa representa distintas perspectivas, vistas y/o historias de la temática de estudio. A su vez, los mapas fomentan que surgan y se planteen nuevas preguntas sobre el tema de estudio. Los casos de uso servirán de guía para introducir los conceptos teóricos necesarios para conocer y entender qué es un SIG y cómo los mapas pueden aplicarse en docencia. Se comentarán diversas herramientas SIG, haciendo hincapié en la herramienta de software libre [QGIS](https://qgis.org/es/site/) y [ArcGIS Online](https://www.arcgis.com/home/index.html).
 
+* [ELECCIONES GENERALES 2019, LOS DATOS HABLAN](https://lab.rtve.es/los-datos-hablan/resultados-interactivos-elecciones/). RTVE.es, 1 May 2019.
+* [El mapa del voto en toda España, calle a calle](https://elpais.com/politica/2019/05/01/actualidad/1556730293_254945.html). El Pais, 1 May 2019.
 * [El mapa del voto en toda España por vecindario](https://elpais.com/politica/2019/04/17/actualidad/1555522788_557334.html). El Pais, 17 Abr 2019.
 * [Tres Cantos, el paraíso de los jubilados](https://elpais.com/ccaa/2019/02/20/madrid/1550680421_903084.html). El País, 21 Feb 2019.
 * [Montañas para ilustrar la población urbana mundial en 3D](https://elpais.com/elpais/2019/01/26/seres_urbanos/1548536663_279333.html). El País, 28 Ene 2019.
